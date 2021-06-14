@@ -55,8 +55,8 @@ Edit here
 
 <!-- THIS SECTION IS MANDATORY. If it is not filled out correctly, your issue will be marked as invalid.
 Example:
-/device polaris (found at https://wiki.aospk.org/devices/)
-/version eleven or eleven_plus (for plus version)
+/device lmi (found at https://wiki.aospk.org/devices/)
+/version eleven
 -->
 
 /device
